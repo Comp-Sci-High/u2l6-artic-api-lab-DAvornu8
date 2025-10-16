@@ -1,7 +1,9 @@
 // Task 1
 // Define a function called getDogArtworks that makes the API call to the request URL you defined in the worksheet (to get 3 dog artworks)
 // Make sure to console log all 3 titles (after you get the data retrieve the nested values) 
-
+ async function getDogArtworks(){
+    
+ }
 
 
 // Call the function and confirm it worked correctly
